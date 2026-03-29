@@ -138,7 +138,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="person-role">Assistant Professor, Psychology</div>
     <div class="person-bio">Judy (she/they) is an Assistant Professor in the Psychology Department at American University. Previously, she was a postdoc at Princeton and Yale in the Crockett Lab. She received her PhD in Experiment Psychology at Johns Hopkins University in the Neuroplasticity &amp; Development Lab. Outside the lab, Judy is passionate about community organizing, crafts, foraging for mushrooms, and BTS. </div>
     <div class="person-links">
-      <a href="mailto:judy@university.edu">✉ email</a>
+      <a href="mailto:judy@american.edu">✉ email</a>
       <a href="https://scholar.google.com/citations?user=ZCMTDXAAAAAJ&amp;hl=en&amp;inst=5803104576075509644">Google Scholar</a>
       <a href="https://drive.google.com/file/d/16i5KkVd2C32mDI19wGosU5rPk6wdL8IC/view?usp=sharing">CV</a>
     </div>
@@ -265,7 +265,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/judyseinkim\.github\.io\/cat-lab-site\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

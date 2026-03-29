@@ -135,7 +135,7 @@ ul.task-list li input[type="checkbox"] {
 Welcome to the Communicating &amp; Thinking lab! We are part of the <b>Department of Psychology</b> and the <b>Behavior, Cognition, and Neuroscience (BCaN) program</b> at <b>American University</b>. We study the relationship between language, thought, and social cognition through the lens of cognitive science.</p>
 
 <div class="home-divider"></div>
-<p class="home-desco">If you are a <b>participant</b> trying to contact us, please email us. Our lab is in Asbury Hall 315.</p>
+<p class="home-desco">If you are a <b>participant</b> trying to contact us, please <a href="mailto:catlab.american@gmail.com">email</a> us. Our lab is in Asbury Hall 315.</p>
 
 <p class="home-desc">If you are interested in <b>joining the lab</b>, you can find more information on our Research page.</p>
 
@@ -217,7 +217,7 @@ Welcome to the Communicating &amp; Thinking lab! We are part of the <b>Departmen
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp('/' + window.location.host + '/');
+        var filterRegex = new RegExp("https:\/\/judyseinkim\.github\.io\/cat-lab-site\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
