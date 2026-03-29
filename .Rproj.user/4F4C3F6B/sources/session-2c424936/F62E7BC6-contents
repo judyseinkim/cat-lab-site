@@ -1,0 +1,83 @@
+---
+title: ""
+---
+
+```{=html}
+<div class="page-title">Projects</div>
+<div class="page-sub">Our research lines and how to get involved</div>
+<div class="divider-line"></div>
+
+<p class="projects-intro">
+  We investigate the cognitive mechanisms underlying language, reasoning, and communication
+  across several interconnected projects, united by the question of how minds produce and
+  interpret meaning in social context.
+</p>
+
+<div class="sect-label">Research lines</div>
+
+<div class="project-panel">
+  <div class="proj-fig">
+    <!-- Replace with: <img src="images/project1.png" alt="Pragmatic inference"> -->
+    <div class="proj-fig-dot"></div>
+    <div class="proj-fig-label">Figure / image</div>
+  </div>
+  <div class="proj-body">
+    <div class="proj-num">01</div>
+    <div class="proj-title">Pragmatic inference</div>
+    <div class="proj-desc">How do listeners recover what speakers mean rather than just what they say? We use web-based experiments and corpus methods to study how context, common ground, and social reasoning shape interpretation — including scalar implicatures, indirect speech, and non-literal language.</div>
+  </div>
+</div>
+
+<div class="project-panel">
+  <div class="proj-fig">
+    <!-- <img src="images/project2.png" alt="Mental simulation"> -->
+    <div class="proj-fig-dot"></div>
+    <div class="proj-fig-label">Figure / image</div>
+  </div>
+  <div class="proj-body">
+    <div class="proj-num">02</div>
+    <div class="proj-title">Mental simulation</div>
+    <div class="proj-desc">When people read or hear language, do they mentally simulate the described events? We investigate the conditions under which embodied and perceptual simulation supports comprehension, and when more abstract representations are used instead.</div>
+  </div>
+</div>
+
+<div class="project-panel">
+  <div class="proj-fig">
+    <!-- <img src="images/project3.png" alt="Belief revision"> -->
+    <div class="proj-fig-dot"></div>
+    <div class="proj-fig-label">Figure / image</div>
+  </div>
+  <div class="proj-body">
+    <div class="proj-num">03</div>
+    <div class="proj-title">Belief revision</div>
+    <div class="proj-desc">People do not always update their beliefs rationally in response to new evidence. We study the cognitive and motivational factors that shape belief revision — including prior confidence, source credibility, and identity-protective cognition.</div>
+  </div>
+</div>
+
+<div class="project-panel">
+  <div class="proj-fig">
+    <!-- <img src="images/project4.png" alt="Communication and memory"> -->
+    <div class="proj-fig-dot"></div>
+    <div class="proj-fig-label">Figure / image</div>
+  </div>
+  <div class="proj-body">
+    <div class="proj-num">04</div>
+    <div class="proj-title">Communication &amp; memory</div>
+    <div class="proj-desc">The act of communicating information changes how it is later remembered. We examine how audience design, shared knowledge, and social communication alter the memory traces that speakers form during encoding.</div>
+  </div>
+</div>
+
+<div class="sect-label">Join the lab</div>
+
+<div class="join-block">
+  <p><strong>Prospective PhD students.</strong> We welcome applications from students interested in cognitive psychology, psycholinguistics, and related areas. Apply through the [Department] PhD program and mention the CAT Lab in your statement. Feel free to reach out beforehand with questions.</p>
+</div>
+
+<div class="join-block">
+  <p><strong>Postdoctoral researchers.</strong> We don't currently have funded positions, but we're happy to support applications for external fellowships (NSF, NIH, etc.). Get in touch with a CV and a short description of your research interests.</p>
+</div>
+
+<div class="join-block">
+  <p><strong>Undergraduate RAs.</strong> We regularly take on undergrads to assist with ongoing studies. Email us with your CV and a brief note about your interests.</p>
+</div>
+```

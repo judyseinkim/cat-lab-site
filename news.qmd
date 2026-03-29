@@ -1,0 +1,53 @@
+---
+title: ""
+---
+
+```{=html}
+
+<!-- Add new items at the top. Badge options: badge-paper, badge-award, badge-event, badge-lab -->
+
+<div class="news-entry">
+  <div class="news-date">Mar<br>2025</div>
+  <div>
+    <span class="news-badge badge-paper">New paper</span>
+    <div class="news-title">CAT Lab paper accepted at <em>Cognition</em></div>
+    <div class="news-body">Our paper "Communicative intent modulates predictive processing during sentence comprehension" has been accepted in <em>Cognition</em>. Congratulations to co-authors Soo-Jin Park and Rafael Villanueva.</div>
+  </div>
+</div>
+
+<div class="news-entry">
+  <div class="news-date">Jan<br>2025</div>
+  <div>
+    <span class="news-badge badge-award">Award</span>
+    <div class="news-title">Dr. Chen receives NSF CAREER award</div>
+    <div class="news-body">Dr. Alice Chen has been awarded an NSF CAREER grant to support research on belief revision and motivated reasoning. The five-year award will fund new projects and support graduate training.</div>
+  </div>
+</div>
+
+<div class="news-entry">
+  <div class="news-date">Nov<br>2024</div>
+  <div>
+    <span class="news-badge badge-event">Conference</span>
+    <div class="news-title">Lab members present at Psychonomics Annual Meeting</div>
+    <div class="news-body">Soo-Jin Park and Tolu Okafor each presented their work at the 65th Annual Meeting of the Psychonomic Society in New York City.</div>
+  </div>
+</div>
+
+<div class="news-entry">
+  <div class="news-date">Aug<br>2024</div>
+  <div>
+    <span class="news-badge badge-lab">Lab news</span>
+    <div class="news-title">Ji-Young Kim joins as a first-year PhD student</div>
+    <div class="news-body">We welcome Ji-Young Kim, who will pursue research on mental simulation and embodied cognition, coming from the University of Chicago.</div>
+  </div>
+</div>
+
+<div class="news-entry">
+  <div class="news-date">Jun<br>2024</div>
+  <div>
+    <span class="news-badge badge-paper">New paper</span>
+    <div class="news-title">Review paper published in <em>Psychological Bulletin</em></div>
+    <div class="news-body">Our review of the embodied language comprehension literature is now available in <em>Psychological Bulletin</em>.</div>
+  </div>
+</div>
+```

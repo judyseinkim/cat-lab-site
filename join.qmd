@@ -1,0 +1,29 @@
+
+
+```{=html}
+
+<div class="page-title">Joining the lab</div>
+
+<p class="projects-intro">In general, when you email the lab, you should include with a few sentences about each of these things: 1) your current stage (e.g., year, major, whether you're an honors student), 2) previous research experience and quantitative training (e.g., whether you've taken stats and methods classes, whether you can code), 3) career goals (e.g., to go to graduate school or unknown), 4) what topics really interest you, 5) what about the lab's research caught your eye, and 6) your CV/resume.</p> 
+
+<p class="projects-intro">Be as honest as possible about your own interests and goals. Because the lab works on many things, it's possible that there's a project that would fit your interests but is not described on our research page or reflected in our publications. You should, however, skim our work to make sure your interests broadly align with the lab's work. </p>
+
+<div class="sect-label">Undergraduate students</div>
+<p class="projects-intro">
+We regularly take on undergraduate students as research assistants or thesis students. We usually only take students who can commit to more than one semester. It's never too early to start getting research experience, so underclassmen are welcome.</p>
+
+<div class="sect-label">Master's students</div>
+<p class="projects-intro">
+Master's students are accepted into the Psychology department, typically without being matched to a specific lab or advisor. However, it doesn't hurt to reach out as soon as you can (e.g., before applying), as well as at any point during the program, if you're interested in the lab's research. </p>
+
+<div class="sect-label">PhD students</div>
+<p class="projects-intro">
+We take PhD students through the Behavior, Cognition, and Neuroscience (BCaN) program. We could potentially take students in the Clinical Psychology PhD program, but it would be more unusual. We are unlikely to take on more PhD students next year (2027), but please feel free to reach out and inquire. </p>
+
+<div class="sect-label">Postdocs</div>
+<p class="projects-intro">The lab does not currently have funded positions, but we're happy to discuss applying for external fellowships and grants together (NSF, NIH, etc.). The ideal collaborator would have some background in cognitive science, but we also welcome people from all kinds of backgrounds (e.g., philosophy, political science, sociology).</p>
+
+<div class="sect-label">Lab manager</div>
+<p class="projects-intro">We do not currently have any openings for a lab manager.</p>
+
+```

@@ -1,0 +1,26 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "CATLab"
+  description: "Communicating & Thinking Lab"
+  navbar:
+    left:
+      - text: "home"
+        href: index.qmd
+      - text: "research"
+        href: research.qmd
+      - text: "people"
+        href: people.qmd
+      - text: "publications"
+        href: publications.qmd
+      - text: "join us"
+        href: join.qmd
+
+
+
+format:
+  html:
+    theme: [flatly, styles.css]
+    toc: false
